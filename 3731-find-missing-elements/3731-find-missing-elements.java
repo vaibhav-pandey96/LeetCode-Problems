@@ -3,20 +3,14 @@ class Solution {
         ArrayList<Integer> al = new ArrayList<>();
         Arrays.sort(nums);
         int start = nums[0];
-        int biggest = 0;
+        int end = nums[nums.length - 1];
 
-        for(int i = 0 ; i < nums.length; i++){
-            al.add(nums[i]);
-            biggest = Math.max(biggest, nums[i]);
+        for(int i = start ; i < end; i++){
+            al.add(i);
         }
 
-        for(int j = start ; j <= biggest; j++){
-            if(al.contains(j)){
-                al.remove(Integer.valueOf(j));
-            }
-            else{
-                al.add(j);
-            }
+        for(int j = 0 ; j < nums.length; j++){
+           al.remove(Integer.valueOf(nums[j]));
         }
         return al;
     }
