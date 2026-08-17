@@ -4,10 +4,7 @@ class Solution {
 
         for(int i = 0 ; i < nums.length; i++){
             map.put(nums[i], map.getOrDefault(nums[i], 0) + 1);
-        }
-
-        for(int ele : map.keySet()){
-            if(map.get(ele) > 1){
+            if(map.get(nums[i]) > 1){
                 return true;
             }
         }
