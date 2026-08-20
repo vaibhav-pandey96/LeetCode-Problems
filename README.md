@@ -37,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
