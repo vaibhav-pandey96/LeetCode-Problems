@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/0268-missing-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/0268-missing-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/0268-missing-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -43,8 +46,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
