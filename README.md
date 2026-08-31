@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/3731-find-missing-elements) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/3731-find-missing-elements) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Linked List
 |  |
@@ -121,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/0392-is-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
