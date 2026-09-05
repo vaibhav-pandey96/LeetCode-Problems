@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/1089-duplicate-zeros) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/3731-find-missing-elements) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/0268-missing-number) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/vaibhav-pandey96/LeetCode-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Sliding Window
 |  |
 | ------- |
