@@ -22,7 +22,6 @@ class Solution {
             prev = curr;
 
             curr = next;
-
         }
         return prev;
     }
