@@ -4,19 +4,18 @@ class Solution {
         int i = 0;
 		int j = c.length - 1;
         while(i < j){
-            if(!Character.isLetterOrDigit(c[i])){
-                i++;
-            }
-            else if(!Character.isLetterOrDigit(c[j])){
-                j--;
-            }
-            else if(Character.toLowerCase(c[i]) == Character.toLowerCase(c[j])){
-                i++;
-                j--;
-            }
-            else{
-                return false;
-            }
+           while(i < j &&!Character.isLetterOrDigit(c[i])){
+            i++;
+           }
+           while(i < j && !Character.isLetterOrDigit(c[j])){
+            j--;
+           }
+
+           if(Character.toLowerCase(c[i]) != Character.toLowerCase(c[j])){
+            return false;
+           }
+           i++;
+           j--;
         }
         return true;
     }
